@@ -27,12 +27,10 @@ Este projeto analisa dados de países utilizando técnicas de clusterização, i
     - No Windows:
     ```
     .\venv\Scripts\activate
-
     ```
     - No Linux/MacOS:
     ```
     source venv/bin/activate
-
     ```
 3. Instalar as Dependências
 
@@ -42,15 +40,14 @@ Após ativar o ambiente virtual, instale as dependências listadas no arquivo re
 pip install -r requirements.txt
 ```
 
-Autor
+#### Autor
 Este projeto foi desenvolvido por Lucas Maia Moreira.
 
-Contribuições
+#### Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-Licença
+#### Licença
 Este projeto está licenciado sob a Licença MIT.
-
 
 
     
